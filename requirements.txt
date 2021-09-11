@@ -9,8 +9,6 @@ parso==0.7.0
 pyaes==1.6.1
 pyasn1==0.4.8
 pyfiglet==0.8.post1
-pygame==2.0.0.dev8
-pygame-sdl2==2.1.0
 pyjnius==1.2.1
 pylint==2.5.2
 PySDL2==0.9.7
