@@ -1,2 +1,5 @@
 pyTelegramBotAPI==4.0.0
-requests==2.25.1
+requests==2.26.0
+uuid==1.30
+config==0.5.1
+telebot==0.0.4
